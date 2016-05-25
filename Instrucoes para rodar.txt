@@ -1,0 +1,16 @@
+>>>descompactar o arquivo TrabGrafos1bim.rar
+
+>>>pelo terminal de comandos, navegar até a pasta descompactada
+
+>>>utilizar o comando java -jar trabGrafos.jar
+
+>>>Escolher a opção do algoritmo desejado
+
+
+O Trabalho foi desenvolvido com eclipse e está pronto para ser importado pela IDE, caso queira analisar o código
+
+Os grafos usados para testar os algoritmos estão na pasta "arquivos" na raiz do projeto.
+
+Sobre:
+>>Aluno: Victor Loquete Pupim
+>>RA: 64573
