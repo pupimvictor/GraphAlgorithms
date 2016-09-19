@@ -1,0 +1,6 @@
+{
+  "name": "Graphalgorithms",
+  "tagline": "Some graph algorithms",
+  "body": "#Graph Algorithms \r\n\r\nImplemented Algorithms\r\n----------------------\r\n-Dijkstra",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
